@@ -1,5 +1,4 @@
-## Hi there 👋
-
+💫 About Me:
 I’m currently building an End-to-End machine learning project using Python and python libraries to extract actionable business insights
 
 👯 I’m looking to collaborate on: Machine Learning aur AI and full stack projects.diving deep into Machine Learning and preparing for GSoC 2026 by contributing to open-source AI projects.
