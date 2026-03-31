@@ -19,7 +19,7 @@ I’m currently building an End-to-End Machine Learning project using Python and
 ### 📈 Dynamic Activity Graph:
 ![Sachin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin9065109&theme=tokyonight)
 
-### 🔥 GitHub Stats & Performance:
+### 🔥 GitHub  Performance:
 ![Sachin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachin9065109&theme=tokyonight&hide_border=true)
 
 ## 📊 GitHub Stats:
