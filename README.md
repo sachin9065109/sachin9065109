@@ -33,5 +33,4 @@ I’m currently building an End-to-End Machine Learning project using Python and
 
 ### 🐍 Contribution Snake:
 ![Snake Animation](https://raw.githubusercontent.com/sachin9065109/sachin9065109/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
