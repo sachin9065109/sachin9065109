@@ -19,6 +19,5 @@ I’m currently building an End-to-End Machine Learning project using Python and
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sachin9065109&theme=dark&no-frame=false)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachin9065109&layout=compact&theme=dark)
-
+![Trophies](https://github-profile-trophy-one.vercel.app/?username=sachin9065109&theme=dark&no-frame=true&margin-w=10)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
