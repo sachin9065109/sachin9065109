@@ -32,6 +32,6 @@ I’m currently building an End-to-End Machine Learning project using Python and
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachin9065109&layout=compact&theme=dark)
 
 ### 🐍 Contribution Snake:
-![Snake Animation](https://github.com/sachin9065109/sachin9065109/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/sachin9065109/sachin9065109/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
