@@ -1,5 +1,7 @@
 # Hi there, I'm Sachin bhagat 👋
 
+
+
 I’m currently building an End-to-End Machine Learning project using Python and its libraries to extract actionable business insights.
 
 👯 I’m looking to collaborate on: Machine Learning, AI, and Full-Stack projects. I am diving deep into ML and preparing for GSoC 2026 by contributing to open-source AI projects.
@@ -16,8 +18,9 @@ I’m currently building an End-to-End Machine Learning project using Python and
 ![Sachin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sachin9065109&show_icons=true&theme=dark)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sachin9065109&theme=dark&no-frame=false)
+![Trophies](https://github-profile-trophy-one.vercel.app/?username=sachin9065109&theme=dark&no-frame=true&margin-w=10)
 
 ## 📊 Most Used Languages
-![Trophies](https://github-profile-trophy-one.vercel.app/?username=sachin9065109&theme=dark&no-frame=true&margin-w=10)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachin9065109&layout=compact&theme=dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
